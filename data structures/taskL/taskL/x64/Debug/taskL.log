@@ -1,0 +1,7 @@
+﻿  taskL.cpp
+C:\codeCPP\taskL\taskL\taskL.cpp(42,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\codeCPP\taskL\taskL\taskL.cpp(50,43): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\codeCPP\taskL\taskL\taskL.cpp(53,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\codeCPP\taskL\taskL\taskL.cpp(75,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\codeCPP\taskL\taskL\taskL.cpp(89,36): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  taskL.vcxproj -> C:\codeCPP\taskL\x64\Debug\taskL.exe

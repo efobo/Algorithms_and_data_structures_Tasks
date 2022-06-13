@@ -1,0 +1,5 @@
+﻿  taskG.cpp
+C:\codeCPP\taskG\taskG\taskG.cpp(57,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\taskG\taskG\taskG.cpp(64,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\taskG\taskG\taskG.cpp(66,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  taskG.vcxproj -> C:\codeCPP\taskG\x64\Debug\taskG.exe
